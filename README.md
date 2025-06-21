@@ -7,8 +7,8 @@
 - **React**
 - **TypeScript**
 - **Material UI**
-- **styled-components** (선택적 스타일 커스터마이징)
-- **clsx**
+- **emotion/stlyed** (선택적 스타일 커스터마이징)
+- **clsx** 
 
 ## ✨ 주요 특징
 
