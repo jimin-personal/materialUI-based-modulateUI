@@ -8,7 +8,7 @@
 - **TypeScript**
 - **Material UI**
 - **styled-components** (선택적 스타일 커스터마이징)
-- **clsx
+- **clsx**
 
 ## ✨ 주요 특징
 
